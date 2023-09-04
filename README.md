@@ -9,3 +9,5 @@ xavier@loeraflores.tech
 Version 1.0
 
 Sep 1, 2023
+
+SQL ran on : [sqlfiddle](http://sqlfiddle.com)
