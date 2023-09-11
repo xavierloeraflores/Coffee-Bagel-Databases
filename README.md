@@ -11,3 +11,5 @@ Version 1.0
 Sep 1, 2023
 
 SQL ran on : [sqlfiddle](http://sqlfiddle.com)
+
+Google Doc: https://docs.google.com/document/d/1yltrsv18RMVHQLeqPfMb_QPTmnzGxHAS8xkY2UxU3PM/edit#heading=h.bcmh5e7y49k8 
