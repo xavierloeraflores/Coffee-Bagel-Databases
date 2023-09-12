@@ -2,7 +2,7 @@ INSERT INTO Coffee_Shop
 VALUES
 	(1,	'Starbucks Coffee', 'San Jose', 'CA'),
 	(2,	'Pete Coffee', 'Los Angeles', 'CA'),
-    (3,	'Phil Coffee',	'Brooklyn', 'NY');
+    (3,	'Phil Coffee', 'Brooklyn', 'NY');
     
 INSERT INTO Employee
 VALUES
