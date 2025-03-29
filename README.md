@@ -1,6 +1,6 @@
 # Coffee-Bagel-Databases
 
-This was an assignment for a Database Management class where I was tasked designing a database for two small businesses.
+This was an assignment for a Database Management class at WGU where I was tasked designing a database for two small businesses.
 
 Created by Xavier Alejandro Loera Flores
 
